@@ -1,15 +1,14 @@
+import math
 from heapq import heappush, heappop
 from pprint import pprint
 
-inf = 1 << 30
+inf = float('inf')
 
 # ダイクストラ with heap
 # O((E + V)log V)
 def dijkstra(n, edges, s):
     d = [inf] * n
-    d[s] = 0
-    pq = [(0, s)]
-    fixed = 0
+    d[s] = 0 pq = [(0, s)] fixed = 0
     while pq:
         di, v = heappop(pq)
         if di > d[v]:
@@ -31,5 +30,6 @@ for i in range(m):
     edges[ui].append((vi, ci))
 
 d = dijkstra(n, edges, s)
-res = "\n".join(map(lambda v: str(v) if v < inf else "INF", d))
-print(res)
+
+for di in d:
+    print('INF' if math.isinf(di) else di)
