@@ -1,25 +1,25 @@
 Python Algorithum and Data structure
 ===
 
-- [-] Heap
-    - [-] Priority Queue: 優先度付きキュー
+- [x] Heap
+    - [x] Priority Queue: 優先度付きキュー
 
-- [-] DP
-    - [-] Matrix Chain Multiplication: 連鎖行列関
-    - [-] Longest Common Subsequence: 最長共通部分列
+- [x] DP
+    - [x] Matrix Chain Multiplication: 連鎖行列関
+    - [x] Longest Common Subsequence: 最長共通部分列
 
 - [ ] Graph
     - [ ] Depth First Search: 深さ優先探索
     - [ ] Breadth First Search: 幅優先探索
-    - [-] Minimum Spanning Tree: 最小全域木
-    - [-] Single Source Shortest Path: 単一始点最短経路
+    - [x] Minimum Spanning Tree: 最小全域木
+    - [x] Single Source Shortest Path: 単一始点最短経路
 
-- [-] Set
-    - [-] Union Find Tree: 互いに素な集合
+- [x] Set
+    - [x] Union Find Tree: 互いに素な集合
 
 - [ ] Range Query
-    - [-] Range Minimum Query (RMQ)
-    - [-] Range Sum Query (RSQ): Binary Indexed Tree (Fenwick Tree)
+    - [x] Range Minimum Query (RMQ)
+    - [x] Range Sum Query (RSQ): Binary Indexed Tree (Fenwick Tree)
     - [ ] Range Search (kD Tree)
     - [ ] Range Update Query (RUQ)
     - [ ] Range Add Query (RAQ)
@@ -27,17 +27,19 @@ Python Algorithum and Data structure
 
 https://www54.atwiki.jp/projecthikky/pages/114.html
 
-* ニュートン法
-* 分割統治法
-* 赤黒木
-* AVL木
-* FenwickTree
-* 貪欲法(GA)
-* トライ木
-* トポロジカルソート
-* FFT
-* モンテカルロ法
-* 焼きなまし法(SA)
-* 山登り法(HC)
-* いもす法
-* A*
+- [ ] ニュートン法
+- [ ] 分割統治法
+- [ ] 赤黒木
+- [ ] AVL木
+- [x] FenwickTree
+- [ ] 貪欲法(GA)
+- [ ] トライ木
+- [ ] トポロジカルソート
+- [ ] FFT
+- [ ] モンテカルロ法
+- [ ] 焼きなまし法(SA)
+- [ ] 山登り法(HC)
+- [ ] いもす法
+- [ ] A*
+
+
