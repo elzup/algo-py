@@ -4,9 +4,9 @@ Python Algorithum and Data structure
 - [-] Heap
     - [-] Priority Queue: 優先度付きキュー
 
-- [ ] DP
-    - [ ] Matrix Chain Multiplication: 連鎖行列関
-    - [ ] Longest Common Subsequence: 最長共通部分列
+- [-] DP
+    - [-] Matrix Chain Multiplication: 連鎖行列関
+    - [-] Longest Common Subsequence: 最長共通部分列
 
 - [ ] Graph
     - [ ] Depth First Search: 深さ優先探索
