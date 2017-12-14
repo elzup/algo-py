@@ -1,12 +1,7 @@
 n = int(input())
 
-edges = [None]
-for i in range(n):
-    edges.append(list(map(int, input().split()[2:])))
-
-sndf = [None]
-for i in range(1, n + 1):
-    sndf.append([False, i])
+edges = [list(map(int, input().split()))[2:] for _ in range(n)]
+sndf = [[False, i] for i in range(1, n + 1)]
 
 path = []
 
