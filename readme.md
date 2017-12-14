@@ -8,9 +8,9 @@ Python Algorithum and Data structure
     - [x] Matrix Chain Multiplication: 連鎖行列関
     - [x] Longest Common Subsequence: 最長共通部分列
 
-- [ ] Graph
-    - [ ] Depth First Search: 深さ優先探索
-    - [ ] Breadth First Search: 幅優先探索
+- [x] Graph
+    - [x] Depth First Search: 深さ優先探索
+    - [x] Breadth First Search: 幅優先探索
     - [x] Minimum Spanning Tree: 最小全域木
     - [x] Single Source Shortest Path: 単一始点最短経路
 
