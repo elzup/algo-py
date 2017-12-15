@@ -73,6 +73,27 @@ product(range(2), repeat=3) # 000 001 010 011 100 101 110 111
 
 
 
+# bit operators
+hex(1023)
+bin(15)
+oct(7)
+
+int("0x100", 16)
+int("0b1111", 2)
+int("0o1777", 8)
+
+x | y   # or
+x & y   # and
+x ^ y   # xor
+x << y  # left shift
+x >> y  # right shift
+
+bin((0b101110 >> 2) & 0b11)
+'0b11'
+
+bin(~1 & 0b1111)
+'0b1110'
+
 # other name note
 from fractions import gcd
 from copy import deepcopy
