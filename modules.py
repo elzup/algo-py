@@ -59,6 +59,20 @@ m = r.findall("abc=123&def=456")
 
 
 
+# itertools
+from itertools import permutations, combinations, product
+permutations('ABCD', 2)     # AB AC AD BA BC BD CA CB CD DA DB DC
+permutations(range(3))      # 012 021 102 120 201 210
+
+
+combinations('ABCD', 2)     # AB AC AD BC BD CD
+combinations(range(4), 3)   # 012 013 023 123
+
+product('ABCD', 'xy')       # Ax Ay Bx By Cx Cy Dx Dy
+product(range(2), repeat=3) # 000 001 010 011 100 101 110 111
+
+
+
 # other name note
 from fractions import gcd
 from copy import deepcopy
