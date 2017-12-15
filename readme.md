@@ -24,6 +24,11 @@ Python Algorithum and Data structure
     - [ ] Range Update Query (RUQ)
     - [ ] Range Add Query (RAQ)
 
+Basic
+
+- [ ] regexp
+- [ ] permutation, combination
+
 
 https://www54.atwiki.jp/projecthikky/pages/114.html
 
