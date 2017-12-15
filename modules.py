@@ -42,6 +42,23 @@ d.items()
 
 
 
+# regex
+m = r.search(r"[a-z]=\d$")
+m.start()   # 4
+m.end()     # 7
+m.span()    # (4, 7)
+
+r = re.compile("([a-z]+)=([0-9])"
+m = r.search("abc=123&def=456")
+m.group(1)      # 'abc'
+m.group(1, 2)   # ('abc', '1')
+m.groups()      # ('abc', '1')
+
+m = r.findall("abc=123&def=456")
+# [('abc', '1'), ('def', '4')]
+
+
+
 # other name note
 from fractions import gcd
 from copy import deepcopy
