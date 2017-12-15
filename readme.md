@@ -14,7 +14,18 @@
   * [x] Depth First Search: 深さ優先探索
   * [x] Breadth First Search: 幅優先探索
   * [x] Minimum Spanning Tree: 最小全域木
-  * [x] Single Source Shortest Path: 単一始点最短経路
+  * [x] Dijkstra, 単一始点最短経路
+  * [x] Bellmanford, 単一始点最短経路(負の重みあり)
+  * [x] Warshallfloyed: 全点対最短経路問題
+  * [x] Segument Tree, RMQ
+  * [x] Fenwick Tree, Binary Indexed Tree, RSQ
+  * [x] Spanning Tree
+  * [x] chi_liu_edmonds
+  
+* [ ] DP
+  * [x] knapsac example
+  * [x] 01kanpsac
+  * [ ] bitDP
 
 * [x] Set
 
@@ -22,7 +33,7 @@
 
 * [ ] Range Query
   * [x] Range Minimum Query (RMQ)
-  * [x] Range Sum Query (RSQ): Binary Indexed Tree (Fenwick Tree)
+  * [x] Range Sum Query (RSQ)
   * [ ] Range Search (kD Tree)
   * [ ] Range Update Query (RUQ)
   * [ ] Range Add Query (RAQ)
