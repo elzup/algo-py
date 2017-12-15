@@ -15,11 +15,9 @@
   * [x] Breadth First Search: 幅優先探索
   * [x] Minimum Spanning Tree: 最小全域木
   * [x] Dijkstra, 単一始点最短経路
-
-         * [x] Bellmanford, 単一始点最短経路(負の重みあり)
-         * [x] Segument Tree, RMQ
-         * [x] Warshallfloyed: 全点対最短経路問題
-
+  * [x] Bellmanford, 単一始点最短経路(負の重みあり)
+  * [x] Segument Tree, RMQ
+  * [x] Warshallfloyed: 全点対最短経路問題
   * [x] Fenwick Tree, Binary Indexed Tree, RSQ
   * [x] Spanning Tree
   * [x] chi_liu_edmonds
