@@ -15,14 +15,17 @@
   * [x] Breadth First Search: 幅優先探索
   * [x] Minimum Spanning Tree: 最小全域木
   * [x] Dijkstra, 単一始点最短経路
-  * [x] Bellmanford, 単一始点最短経路(負の重みあり)
-  * [x] Warshallfloyed: 全点対最短経路問題
-  * [x] Segument Tree, RMQ
+
+         * [x] Bellmanford, 単一始点最短経路(負の重みあり)
+         * [x] Segument Tree, RMQ
+         * [x] Warshallfloyed: 全点対最短経路問題
+
   * [x] Fenwick Tree, Binary Indexed Tree, RSQ
   * [x] Spanning Tree
   * [x] chi_liu_edmonds
-  
+
 * [ ] DP
+
   * [x] knapsac example
   * [x] 01kanpsac
   * [ ] bitDP
@@ -63,5 +66,5 @@ https://www54.atwiki.jp/projecthikky/pages/114.html
 * [ ] モンテカルロ法
 * [ ] 焼きなまし法(SA)
 * [ ] 山登り法(HC)
-* [ ] いもす法
-* [ ] A\-
+* [x] いもす法
+* [ ] A\*
