@@ -94,6 +94,28 @@ bin((0b101110 >> 2) & 0b11)
 bin(~1 & 0b1111)
 '0b1110'
 
+
+
+# input read
+n, m, s = map(int, input().split())
+mp = list(map(int, [input().split() for i in range(n)]))
+
+
+
+# dictionary loop
+di = { "a": 11, "b": 22 }
+for k, v in di.items():
+	print(k, v)
+
+
+
+# list loop
+li = ["a", "b", "c"]
+for k, v in enumerate(li):
+	print(k, v)
+
+
+
 # other name note
 from fractions import gcd
 from copy import deepcopy
