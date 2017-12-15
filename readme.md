@@ -55,11 +55,11 @@ Basic
 https://www54.atwiki.jp/projecthikky/pages/114.html
 
 * [ ] ニュートン法
-* [ ] 分割統治法
+* [x] 分割統治法
 * [ ] 赤黒木
 * [ ] AVL 木
 * [x] FenwickTree
-* [ ] 貪欲法(GA)
+* [x] 貪欲法(GA)
 * [ ] トライ木
 * [ ] トポロジカルソート
 * [ ] FFT
